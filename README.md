@@ -1,7 +1,7 @@
-#Barbearia
+# Barbearia
 Java RESTful API criada para o desafio da DIO.
 
-##Diagrama de Classe
+## Diagrama de Classe
 ```mermaid
 classDiagram
     class Client {
